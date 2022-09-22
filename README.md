@@ -1,4 +1,4 @@
-# citation_source_reliability
+# citation source reliability
 
 The citation_source_reliability.yml file contains a non-exhaustive list of citation sources with their reliability status. Currently, we are only using the "blacklisted" reliability status to mark which sources cannot be used in citations for triples.
 
