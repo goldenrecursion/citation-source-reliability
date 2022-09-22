@@ -1,0 +1,92 @@
+---
+sources:
+  -
+    regex: \bcompany-histories.com\b
+    status: blacklisted
+  -
+    regex: \bfundinguniverse.com\b
+    status: blacklisted
+  -
+    regex: \bbestgore.com\b
+    status: blacklisted
+  -
+    regex: \bbreitbart.com\b
+    status: blacklisted
+  -
+    regex: \bbiggovernment.com\b
+    status: blacklisted
+  -
+    regex: \bglobalresearch.ca\b
+    status: blacklisted
+  -
+    regex: \bglobalresearch.org\b
+    status: blacklisted
+  -
+    regex: \bmondialisation.ca\b
+    status: blacklisted
+  -
+    regex: \bexaminer.com\b
+    status: blacklisted
+  -
+    regex: \bfamousbirthdays.com\b
+    status: blacklisted
+  -
+    regex: \binfowars.com\b
+    status: blacklisted
+  -
+    regex: \binfowars.net\b
+    status: blacklisted
+  -
+    regex: \binfowars.tv\b
+    status: blacklisted
+  -
+    regex: \bnewswars.com\b
+    status: blacklisted
+  -
+    regex: \bbanned.video\b
+    status: blacklisted
+  -
+    regex: \blenta.ru\b
+    status: blacklisted
+  -
+    regex: \bliveleak.com\b
+    status: blacklisted
+  -
+    regex: \blulu.com\b
+    status: blacklisted
+  -
+    regex: \bmylife.com\b
+    status: blacklisted
+  -
+    regex: \breunion.com\b
+    status: blacklisted
+  -
+    regex: \bnaturalnews.com\b
+    status: blacklisted
+  -
+    regex: \bnewstarget.com\b
+    status: blacklisted
+  -
+    regex: \bopindia.com\b
+    status: blacklisted
+  -
+    regex: \bopindia.in\b
+    status: blacklisted
+  -
+    regex: \bthepointsguy.com/news\b
+    status: blacklisted
+  -
+    regex: \bthepointsguy.com/reviews\b
+    status: blacklisted
+  -
+    regex: \bthepointsguy.com\b
+    status: blacklisted
+  -
+    regex: \bswarajyamag.com\b
+    status: blacklisted
+  -
+    regex: \bveteranstoday.com\b
+    status: blacklisted
+  -
+    regex: \bzoominfo.com\b
+    status: blacklisted
